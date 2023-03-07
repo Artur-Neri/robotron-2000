@@ -1,5 +1,7 @@
 # robotron-2000
 
+link para acessar o projeto no próprio navegador: https://robotron-2000-git-main-artur-neri.vercel.app/
+
 Ao concluir o projeto pelo curso da Alura, percebi que o programa original estava com um erro:
 
   [erro-robotron-2000.webm](https://user-images.githubusercontent.com/110543447/223449169-70794168-9e71-4e79-815f-e506ee1c6464.webm)
