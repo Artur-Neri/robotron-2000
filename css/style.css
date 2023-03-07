@@ -38,11 +38,11 @@ main {
 }
 
 .robo {
-    height: 110%;
+    height: 100%;
     z-index: 1;
     position: absolute;
     left: -20%;
-    top: -5%;
+    top: 0%;
 }
 
 .titulo {
@@ -231,3 +231,16 @@ main {
         margin: 10vh auto;
     }
 }
+
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: 10%;
+   display: block;
+}
+
