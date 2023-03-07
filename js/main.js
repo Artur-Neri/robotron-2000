@@ -62,3 +62,7 @@ function atualizaEstatisticas(peca, operacao) {
         })
     }
 }
+
+function trocaImagem(cor){
+    document.querySelector(".robo").src="img/" + cor + ".png";
+ }
